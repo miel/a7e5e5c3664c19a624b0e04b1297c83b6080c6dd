@@ -180,7 +180,7 @@
           "_anchor": "msg-box5-1m",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -238,7 +238,7 @@
           "_anchor": "msg-box5-1n",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -296,8 +296,8 @@
           "_anchor": "msg-box5-1o",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
