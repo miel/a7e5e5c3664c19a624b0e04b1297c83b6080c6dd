@@ -479,6 +479,15 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#msg-box5-1m P {
+  color: #cccccc;
+}
+#msg-box5-1n P {
+  color: #cccccc;
+}
+#msg-box5-1o P {
+  color: #cccccc;
+}
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
